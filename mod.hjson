@@ -1,6 +1,6 @@
 {
     name: "ca-mod",
-    repo: "The4codeblocks/sandbox-utilities",
+    repo: "quantum-brokengrammar/sandbox-utilities",
     minGameVersion: 144,
     version: "135",
     
