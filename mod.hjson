@@ -1,5 +1,5 @@
 {
-    name: "sandbox-utilities",
+    name: "ca-mod",
     repo: "The4codeblocks/sandbox-utilities",
     minGameVersion: 144,
     version: "135",
